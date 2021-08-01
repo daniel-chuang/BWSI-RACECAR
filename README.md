@@ -8,7 +8,7 @@ If you want to see the code, look at the links below!
 The Grandprix is the final challenge among RACECAR students! It features a 9 section racecourse that must be completed autonomously. You'll find our final runthrough
 of the course, which was high optimized. Our entire group pulled a all nighter to finish this!
 
-## [Reinforcement Learning for Cone Slaloming Using ML-Agents in Unity](https://github.com/daniel-chuang/Racecar-ML)
+## [Reinforcement Learning for Cone Slaloming Using ML-Agents in Unity](https://github.com/mehulrao/Racecar-ML)
 We use ML-Agents in Unity to train a car to run through cone slaloming courses. Pretty cool stuff. You'll find a explaination video, along with recordings of the
 model running through cone slaloming courses!
 
